@@ -17,8 +17,8 @@
 
 ## pipeline
 #### Fivetran ()
-#### dbt_intro: https://enshrined-feeling-a1d.notion.site/dbt-intro-1c3c4922599380afaf89e302972c7cc1?pvs=4
-#### airflow_intro: (to be organized)
+#### dbt intro: https://enshrined-feeling-a1d.notion.site/dbt-intro-1c3c4922599380afaf89e302972c7cc1?pvs=4
+#### airflow intro: (to be organized)
 <br>
 
 ## random
